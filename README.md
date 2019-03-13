@@ -14,7 +14,7 @@ SEOKeyword-Analyzer is a Chrome Extension to analyze the seo keywords from your 
 
 ## Chrome Extension
 
-![SEOKeyword-Analyzer](https://cdn1.imggmi.com/uploads/2019/3/13/a8727ebccba90d5c45ee9df5d27f3ca0-full.png)
+![SEOKeyword-Analyzer](https://github.com/patrick0585/SEOKeyword-Analyzer/blob/master/SEOKeyword-Analyzer.png)
 
 ## Authors
 
